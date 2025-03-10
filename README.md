@@ -31,7 +31,7 @@ AI-Powered Attendance System is a facial recognition-based attendance tracking s
 ## 🔧 Installation
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/ai-attendance-system.git
+   git clone https:(https://github.com/yashdavkhar7020/AttendEase)
    cd ai-attendance-system
    ```
 2. **Install Dependencies**
